@@ -1,4 +1,4 @@
-# SpendWise: Your Ultimate Financial Empowerment Tool
+# SpendWise: Financial Empowerment Tool
 
 Welcome to SpendWise, the avant-garde JavaFX-based wallet and finance tracker that redefines the landscape of financial management. Dive into a world of unparalleled empowerment as SpendWise combines a sleek interface with robust functionalities to bring you an unparalleled financial experience.
 
@@ -68,3 +68,24 @@ Once the admin signs in, they are directed to an admin page where they can:
 Both users and the admin can export data for their convenience.
 Users can export their expenses as a PDF document.
 The admin can download user data, including a list of all users and their transactions, in PDF format for comprehensive reporting.
+
+
+## Screenshots
+
+For a visual preview of SpendWise, please refer to the [Screenshots-SpendWise](Screenshots-SpendWise/) folder.
+For the images used in SpendWise, please refer to the [imgs](imgs/) folder.
+
+
+## Additional Notes
+
+SpendWise uses MYSQL database, locate the java code responsible for the connection to the database and adjust it to your own.
+## Contributing
+
+
+Contributions to this project are welcome. If you'd like to contribute or report any issues, please follow these guidelines:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name.
+3. Make your changes or bug fixes.
+4. Test your changes thoroughly.
+5. Create a pull request, explaining the changes you made.
