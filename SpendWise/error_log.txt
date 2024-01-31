@@ -1,0 +1,42 @@
+2023-12-07 03:12:30: Fill out the fields - Email or Password is empty
+2023-12-07 03:12:39: Fill out the fields - Email or Password is empty
+2023-12-07 03:24:19: Fill out the fields - Email or Password is empty
+2023-12-07 03:26:56: Invalid Credentials
+2023-12-07 03:33:11: Fill out all fields
+2023-12-07 12:23:38: Fill out the fields - Email or Password is empty
+2023-12-08 17:18:42: Invalid Credentials
+2023-12-09 17:50:39: Fill out the fields - Email or Password is empty
+2023-12-09 17:56:15: Fill out the fields - Email or Password is empty
+2023-12-09 18:05:31: Passwords mismatch
+2023-12-09 18:06:49: Wrong Email Format
+2023-12-09 18:21:20: Username And Email Already Exist
+2023-12-09 18:21:33: Email Already Exist
+2023-12-09 18:21:47: Username Already Exist
+2023-12-09 18:35:59: Entered amount Not valid
+2023-12-09 18:38:26: Entered amount Not valid
+2023-12-09 18:38:29: Entered amount Not valid
+2023-12-09 18:54:26: Not filling all the fields
+2023-12-10 01:52:09: Not filling all the fields for change
+2023-12-10 01:52:26: Not filling all the fields for change
+2023-12-10 01:55:42: Email already exists for change
+2023-12-10 01:55:49: User not found for change
+2023-12-10 15:40:51: SQL Exception occurred
+2023-12-13 13:05:50: Invalid Credentials
+2023-12-14 00:43:08: Username Already Exist
+2023-12-14 00:43:15: Email Already Exist
+2023-12-14 00:48:16: Expense amount exceeding the balance
+2023-12-14 00:49:07: Entered amount Not valid
+2023-12-14 00:54:57: Entered amount Not valid
+2023-12-14 00:59:15: Expense amount exceeding the balance
+2023-12-14 01:01:17: Not filling all the fields
+2023-12-14 01:01:23: Not filling all the fields
+2023-12-14 01:04:02: Entered amount Not valid
+2023-12-14 01:05:04: Entered amount Not valid
+2023-12-14 01:17:01: Invalid Credentials
+2023-12-14 01:19:42: Username already exists
+2023-12-14 01:30:04: Username Already Exist
+2023-12-14 01:30:38: Email Already Exist
+2023-12-14 01:33:03: Expense amount exceeding the balance
+2023-12-14 01:33:37: Entered amount Not valid
+2023-12-14 01:38:43: Reaching the maximum limit for a specific date
+2023-12-14 01:41:17: Invalid Credentials
